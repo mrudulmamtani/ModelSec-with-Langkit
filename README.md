@@ -30,10 +30,6 @@ This repository contains a Colab notebook that demonstrates how to check securit
 
 Open the Jupyter notebook (`LangKit_on_HuggingFace_Models.ipynb`) and follow the instructions in the notebook.
 
-## Contributing
-
-Contributions are welcome! Please read our Contributing Guide and our Code of Conduct for details on our code of conduct and the process for submitting pull requests to us.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
