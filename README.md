@@ -28,7 +28,7 @@ This repository contains a Colab notebook that demonstrates how to check securit
 
 ## Usage
 
-Open the Jupyter notebook (`model_security.ipynb`) and follow the instructions in the notebook.
+Open the Jupyter notebook (`LangKit_on_HuggingFace_Models.ipynb`) and follow the instructions in the notebook.
 
 ## Contributing
 
